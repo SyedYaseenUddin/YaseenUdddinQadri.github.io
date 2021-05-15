@@ -1,0 +1,9 @@
+.nav-link.text-white.active {
+    color: var(--bs-blue) !important;
+    background-color: var(--bs-white);
+    font-weight: bold;
+  }
+
+  .main-body {
+      margin-top: 40px;
+  }
